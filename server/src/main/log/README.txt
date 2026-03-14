@@ -1,0 +1,2 @@
+README.txt
+log目录是用来存放kkFileView.log的，预览服务的运行情况最终都会反映到这个日志文件里，
